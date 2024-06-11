@@ -1,0 +1,30 @@
+_repo: Mr-Jeremias-etsii-illusionia_73775
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kansanen, Rakel
+    gutenberg_agent_id: '57215'
+    url: http://www.gutenberg.org/2009/agents/57215
+creator:
+  author:
+    agent_name: Olsson, Hagar
+    gutenberg_agent_id: '57214'
+    url: http://www.gutenberg.org/2009/agents/57214
+description: ''
+gutenberg_issued: '2024-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73775'
+language: fi
+pgterms:marc905: 20240402002824olsson
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mr Jeremias etsii illusionia
+url: http://www.gutenberg.org/ebooks/73775
