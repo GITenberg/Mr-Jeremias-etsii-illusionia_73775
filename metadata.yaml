@@ -5,12 +5,17 @@ contributor:
     agent_name: Kansanen, Rakel
     gutenberg_agent_id: '57215'
     url: http://www.gutenberg.org/2009/agents/57215
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Olsson, Hagar
     gutenberg_agent_id: '57214'
     url: http://www.gutenberg.org/2009/agents/57214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73775#Mr-Jeremias-etsii-illusionia
 gutenberg_issued: '2024-06-05'
 gutenberg_type: Text
 identifiers:
